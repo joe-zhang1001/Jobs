@@ -1,1 +1,66 @@
+1、 Abotify
+    company website：https://www.abotify.com
+    Company Intro
+    - Backed by a16z and other top-tier funds in Silicon Valley. 
+    - building the monetization layer for the next generation of GenAI traffic. 
+    - mission: build the native ads system for the GenAI age. 
+      1. Generative AI is not only a form of intelligence, but also a fundamentally superior form of content, that is more expressive, more engaging, and personalized than traditional static content. It will take increasing large amount of consumer attention from the legacy platforms. 
+      2. Where there is consumer attention, there will be ads. We organize the world's information in the most economic way.
+    Hiring manager: Jason is the CEO and co-founder of the company. He has a background in NLP research, tech startup, and ads system, and is fascinated by the software paradigm shifts brought by new technology.
 
+Our values
+1. long-term thinking & integrity
+  1. Integrity leads to better results in the long term, it forces us to not take shortcuts, and focus on actual high-quality growth and build our core competence.
+  2. Long-term successful company cannot be built from greedy optimization (constantly optimize for short-term objectives for each step in his history), and it requires taking the courage to forgo short-term interest 
+2. move fast, break things, and learn from it 
+  1. We're building in the cutting edge space. There will be trial and errors and we learn from that. We want people to have bravery and initiative to make these experiments. 
+  2. Bad consequences are acceptable, as long as the decision is well-thought of and gives us learning.
+3. ownership & initiative 
+  1. We want self-starters who can have a sense of ownership and don't need external supervision
+4. client/user-focused 
+  1. Especially in the beginning, we need to gain the trust of our advertisers and publishers by exceeding their expectations. 
+  2. This happens at every detailed level, at every touch point from initial contact, the content & material we deliver them, to ultimately the ROI of product that we deliver to them 
+
+招聘岗位：
+ML engineer 
+  - Responsibility 
+    - Understand business objective, able to independently define metrics, get data, train model, and deliver results
+    - Build the ads system as well as the LLM-native part  
+    - Based on the data, optimize the system against the metrics, try out different ML algorithms 
+    - Productionize & scale the ML pipeline in a backend system, improve latency 
+  - Requirement 
+    - You either have extensive LLM / Generative image / video experience, or extensive ad system / recommendation system. Ideally both. 
+    - Experience in deep learning architectures and frameworks (e.g., PyTorch, TensorFlow).
+    - Strong programming skills in Python and proficiency in relevant ML libraries.
+    - Experience in of distributed computing, cloud platforms, and big data technologie is a plus 
+    - Experience with LLM/NLP is a must, experience with other generative modalities (image, video, audio, etc) is a big plus
+
+Ads infra engineer
+  - Responsibility 
+    - Build and scale our AI-native ads system 
+  - Requirements
+    - Extensive experience with programmatic ad systems
+    - Familiar with the different players in the ads ecosystem and the business landscape
+    - Solid understanding of the business logic of programmatic ad systems, including intent recognition, targeting, ad matching, pricing, etc. 
+    - practical experience working in the cloud (GCP, AWS, etc) 
+    - Preferably have experience optimizing low-latency, high-throughput backend optimization 
+    - Our stack is based on Python and Go, experience with other programming languages is a plus 
+  - Ideal candidate 
+    - Have at least 2 years of experience in programmatic ads systems
+    - Either very young, hungry or very experienced 
+    - Have a holistic view on the programmatic ads ecosystem (not specific to a particular function in big tech), know of technologies like OpenRTB or the practical applications 
+    - Strong interest in GenAI 
+    - Have experience in high-growth team/project at established companies or experience at startup
+
+Research engineer - generative video (accept intern/full-time/part-time)
+  - Responsibility 
+    - Follow cutting-edge results in video generation and video editing
+    - Build and iterate research prototypes in fast iterations to achieve key business objectives 
+    - Productionize the prototypes with the engineering team and ensure key performance metrics in monetization and user experience 
+    - Note: this role does not involve training foundation models, but rather focuses on building products based on foundation model capabilities 
+  - Requirement 
+    - Strong passion and experience in generative AI, especially in generative video and video editing space 
+    - Experience with leading AI research tech stack, including but not limited to Python, PyTorch, cuda, etc.
+    - Strong interest in creating real-world impact with cutting-edge AI technology
+    - Strong communication ability with both verbal and written communications 
+    - (optional) experience building products on top of latest research results, experience with comfyui is a plus 
